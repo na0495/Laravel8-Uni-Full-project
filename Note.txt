@@ -1,0 +1,5 @@
+This is was my last project with the framework Laravel at the end of my course
+Dev Web, this part only have Admin dashboard, to login witht he database as an
+admin use admin@gmail.com and password : 012345678
+also note that with the admin dashboard you can add remove or edit a product on
+your e-commerce website and lot of others option ... 
